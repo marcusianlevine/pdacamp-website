@@ -1,0 +1,50 @@
+---
+page-layout: custom
+toc: false
+---
+
+::: {.text-center}
+
+# Your Fearless Leaders
+
+::: {.grid}
+
+::: {.g-col-12}
+Laura Hutchinson
+
+"Tractor"
+
+**CAMP LEAD**
+
+![Picture of Tractor](./assets/Laura.png)
+:::
+
+::: {.g-col-6}
+David Madison Stellar
+
+"Captain Mango"
+
+**HEAD LEAD**
+
+_Build & Strike_
+
+![Picture of Mango](./assets/Dave.jpg)
+:::
+
+::: {.g-col-6}
+
+Michelle Giffin
+
+"Ziptie"
+
+**HEART LEAD**
+
+_Placement/Arrival_
+
+![Picture of Ziptie](./assets/Michelle.png)
+
+:::
+
+:::
+
+:::

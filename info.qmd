@@ -1,0 +1,12 @@
+---
+title: "Info"
+format:
+    html:
+        page-layout: full
+---
+
+If the doc doesn't load below, go [here](https://docs.google.com/document/d/1s7fCq00nKZ_0SLt1p7hY4bOQHyk4-xJjawGWSunmciw/)
+
+```{=html}
+<iframe src="https://docs.google.com/document/d/1s7fCq00nKZ_0SLt1p7hY4bOQHyk4-xJjawGWSunmciw/" width="1100" height="6000"></iframe>
+```

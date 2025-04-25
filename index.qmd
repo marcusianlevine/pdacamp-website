@@ -1,0 +1,35 @@
+---
+title: "Welcome Home!"
+image: ./assets/Camp.jpg
+about:
+  template: marquee
+  image-alt: Photo of the camp's frontage
+  links:
+    - icon: discord
+      text: Discord
+      href: https://discord.gg/bU5yGrFSN6
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/groups/PDACamp/
+    - icon: envelope
+      text: Email
+      href: mailto:partner.dance.adventures@gmail.com
+---
+
+pdaCamp, a.k.a. "Partner Dance Adventures" (PDA) is a medium sized (50-60 people) Burning Man theme camp located in the Center Camp ring road.
+
+We offer daily lessons in Blues, Tango, Zouk, Swing and a variety of other partner dances. At PDA, experience an entirely different side of life - the joy of partner dancing - and a whole new family that is waiting for you to join us!
+
+Experience dancing on our shaded, sprung, 1000+ square foot dance floor in our beautiful open air ballroom, the only one like it on playa. We DJ music nearly 20 hours a day, and we host terrific dance parties every night!
+
+PDA is unique on the playa. While there are many sound camps blasting electronica, few camps showcase lyrical music or partner dance like us. We are the largest such camp at Burning Man, and we have the best dance floor in the Black Rock desert.
+
+We kick ass!
+
+We have been on the playa since 2009 (prevously under the name Tango'd up in Blues) and have developed a font of wisdom about how to make a theme camp work. We make incremental improvements to our systems, our infrastructure and our culture every year, and we believe this year will be our best offering yet.
+
+We believe that the foundation of a great public offering at Burning Man is a great experience for PDA campers - so we provide extensive infrastructure, special amenities, and a supportive community to make living and dancing in the desert awesome and inspiring.
+
+> "I Want To Join!"
+
+We'd love to have you! See the [Apply](./apply.qmd) tab in the menu bar for our application.

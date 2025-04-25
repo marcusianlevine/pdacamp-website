@@ -1,0 +1,14 @@
+---
+title: "Apply"
+format:
+    html:
+        page-layout: full
+---
+
+If the application form doesn't load below, go [here](https://forms.gle/jucT3Nvaxuuefmie8)
+
+```{=html}
+<div style="text-align:center;">
+<iframe src="https://forms.gle/jucT3Nvaxuuefmie8" width="760" height="6000"></iframe>
+</div>
+```

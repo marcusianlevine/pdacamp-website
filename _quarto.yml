@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "Partner Dance Adventures"
+  favicon: ./assets/Logo.png
+  repo-url: https://github.com/marcusianlevine/pdacamp-website
+  search: false
+  image: ./assets/Camp.png
+  open-graph: true
+  navbar:
+    logo: ./assets/Logo.png
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: apply.qmd
+        text: Apply
+      - href: info.qmd
+        text: Info
+      - href: management.qmd
+        text: Management
+    tools:
+      - icon: facebook
+        href: "https://www.facebook.com/groups/PDACamp/"
+        target: _blank
+        aria-label: Facebook
+      - icon: discord
+        href: "https://discord.gg/bU5yGrFSN6"
+        target: _blank
+        aria-label: Discord
+      - icon: envelope
+        href: "mailto:partner.dance.adventures@gmail.com"
+        aria-label: Email
+  page-footer:
+    right:
+      - text: "© 2025 pdaCamp.com"
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+
+
