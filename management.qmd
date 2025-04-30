@@ -1,6 +1,7 @@
 ---
 page-layout: custom
 toc: false
+pagetitle: Management
 ---
 
 ::: {.text-center}
@@ -33,15 +34,15 @@ _Build & Strike_
 
 ::: {.g-col-6}
 
-Michelle Giffin
+Toria
 
-"Ziptie"
+"Mudsprite"
 
 **HEART LEAD**
 
-_Placement/Arrival_
+_Comms & HR_
 
-![Picture of Ziptie](./assets/Michelle.png)
+![Picture of Mudsprite](./assets/Toria.jpg){height=200}
 
 :::
 
